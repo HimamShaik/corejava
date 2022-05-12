@@ -1,0 +1,258 @@
+2022-04-05 18:34:11 WARN  AdminServiceImpl:23 - hey suryadevara your data is exits allready from service layer
+2022-04-05 18:34:23 INFO  AdminServiceImpl:28 - processing the new admin data from service layer
+2022-04-05 18:34:23 INFO  AdminController:33 - admin data is adding via calling service method
+2022-04-05 18:38:47 INFO  AdminServiceImpl:28 - processing the new admin data from service layer
+2022-04-05 18:38:47 INFO  AdminController:33 - admin data is adding via calling service method
+2022-04-05 18:41:28 INFO  AdminServiceImpl:28 - processing the new admin data from service layer
+2022-04-05 18:41:28 INFO  AdminController:33 - admin data is adding via calling service method
+2022-04-05 18:43:08 INFO  AdminServiceImpl:28 - processing the new admin data from service layer
+2022-04-05 18:43:08 INFO  AdminController:33 - admin data is adding via calling service method
+2022-04-06 09:38:16 INFO  AdminServiceImpl:40 - hey admin Himam sab your data is avaiable
+2022-04-06 09:40:52 INFO  AdminServiceImpl:40 - hey admin Himam sab your data is avaiable
+2022-04-06 09:54:01 INFO  AdminServiceImpl:52 - details are found procssing to delete the data ofsuryadevara
+2022-04-06 09:54:02 INFO  AdminController:54 - processing the data passing through the service layer
+2022-04-06 10:42:24 INFO  AdminController:63 - processing the data passing through the service layer
+2022-04-06 10:42:24 INFO  AdminServiceImpl:65 - details are found procssing to update the data of suryadevara
+2022-04-06 10:43:10 INFO  AdminController:63 - processing the data passing through the service layer
+2022-04-06 10:43:10 INFO  AdminServiceImpl:65 - details are found procssing to update the data of suryadevara
+2022-04-06 10:45:15 INFO  AdminController:63 - processing the data passing through the service layer
+2022-04-06 10:45:15 INFO  AdminServiceImpl:65 - details are found procssing to update the data of suryadevara
+2022-04-06 11:01:20 INFO  AdminController:63 - processing the data passing through the service layer
+2022-04-06 11:01:20 INFO  AdminServiceImpl:69 - details are found procssing to update the data of suryadevara
+2022-04-06 11:02:07 INFO  AdminController:45 - processing the data passing through the service layer
+2022-04-06 11:02:07 INFO  AdminServiceImpl:40 - hey admin suryadevara your data is avaiable
+2022-04-06 11:03:14 INFO  AdminController:63 - processing the data passing through the service layer
+2022-04-06 11:03:14 INFO  AdminServiceImpl:69 - details are found procssing to update the data of suryadevara
+2022-04-06 11:30:05 INFO  AdminServiceImpl:89 - hey admin we found all the details of admins they are
+2022-04-06 11:34:04 INFO  AdminServiceImpl:89 - hey admin we found all the details of admins they are
+2022-04-06 15:49:33 DEBUG AdminController:76 - calling service layer
+2022-04-06 15:49:33 INFO  AdminServiceImpl:98 - entered service layer
+2022-04-06 15:49:33 DEBUG AdminServiceImpl:100 - called repo
+2022-04-06 15:49:34 INFO  AdminServiceImpl:104 - checkng the password
+2022-04-06 15:49:42 DEBUG AdminController:76 - calling service layer
+2022-04-06 15:49:42 INFO  AdminServiceImpl:98 - entered service layer
+2022-04-06 15:49:42 DEBUG AdminServiceImpl:100 - called repo
+2022-04-06 15:49:42 INFO  AdminServiceImpl:104 - checkng the password
+2022-04-06 15:49:43 DEBUG AdminServiceImpl:106 - password is wright
+2022-04-06 15:49:43 INFO  AdminController:78 - return via service to controller
+2022-04-06 16:14:45 DEBUG AdminController:76 - calling service layer
+2022-04-06 16:14:45 INFO  AdminServiceImpl:98 - entered service layer
+2022-04-06 16:14:45 DEBUG AdminServiceImpl:100 - called repo
+2022-04-06 16:14:45 INFO  AdminServiceImpl:104 - checkng the password
+2022-04-06 16:14:54 DEBUG AdminController:76 - calling service layer
+2022-04-06 16:14:54 INFO  AdminServiceImpl:98 - entered service layer
+2022-04-06 16:14:54 DEBUG AdminServiceImpl:100 - called repo
+2022-04-06 16:14:54 INFO  AdminServiceImpl:104 - checkng the password
+2022-04-06 16:19:34 INFO  AdminServiceImpl:34 - processing the new admin data from service layer
+2022-04-06 16:19:34 INFO  AdminController:39 - admin data is adding via calling service method
+2022-04-06 16:20:14 DEBUG AdminController:76 - calling service layer
+2022-04-06 16:20:14 INFO  AdminServiceImpl:98 - entered service layer
+2022-04-06 16:20:14 DEBUG AdminServiceImpl:100 - called repo
+2022-04-06 16:20:14 INFO  AdminServiceImpl:104 - checkng the password
+2022-04-06 16:20:58 INFO  AdminServiceImpl:34 - processing the new admin data from service layer
+2022-04-06 16:20:58 INFO  AdminController:39 - admin data is adding via calling service method
+2022-04-06 16:21:17 DEBUG AdminController:76 - calling service layer
+2022-04-06 16:21:17 INFO  AdminServiceImpl:98 - entered service layer
+2022-04-06 16:21:17 DEBUG AdminServiceImpl:100 - called repo
+2022-04-06 16:21:17 INFO  AdminServiceImpl:104 - checkng the password
+2022-04-06 16:23:30 DEBUG AdminController:76 - calling service layer
+2022-04-06 16:23:30 INFO  AdminServiceImpl:98 - entered service layer
+2022-04-06 16:23:30 DEBUG AdminServiceImpl:100 - called repo
+2022-04-06 16:23:30 INFO  AdminServiceImpl:104 - checkng the password
+2022-04-06 16:23:30 DEBUG AdminServiceImpl:107 - password is wright
+2022-04-06 16:23:30 INFO  AdminController:78 - return via service to controller
+2022-04-06 17:01:20 DEBUG AdminController:76 - calling service layer
+2022-04-06 17:01:20 INFO  AdminServiceImpl:103 - checkng the password
+2022-04-06 17:01:29 DEBUG AdminController:76 - calling service layer
+2022-04-06 17:01:29 INFO  AdminServiceImpl:103 - checkng the password
+2022-04-06 17:01:29 INFO  AdminController:78 - return via service to controller
+2022-04-06 22:22:11 INFO  AdminServiceImpl:117 - processing the data check
+2022-04-06 22:22:11 INFO  AdminServiceImpl:119 - username and phone no matched setting new password
+2022-04-06 22:22:39 INFO  AdminServiceImpl:117 - processing the data check
+2022-04-07 11:39:07 INFO  AdminServiceImpl:34 - processing the new admin data from service layer
+2022-04-07 11:39:07 INFO  AdminController:40 - admin data is adding via calling service method
+2022-04-07 11:39:18 WARN  AdminServiceImpl:29 - hey himam shaik your data is exits allready from service layer
+2022-04-07 11:42:53 WARN  AdminServiceImpl:29 - hey himam shaik your data is exits allready from service layer
+2022-04-07 11:47:57 WARN  AdminServiceImpl:29 - hey himam shaik your data is exits allready from service layer
+2022-04-07 12:05:35 WARN  AdminServiceImpl:29 - hey himam shaik your data is exits allready from service layer
+2022-04-07 12:05:55 WARN  AdminServiceImpl:29 - hey himam your data is exits allready from service layer
+2022-04-07 12:06:12 INFO  AdminServiceImpl:34 - processing the new admin data from service layer
+2022-04-07 12:06:12 INFO  AdminController:40 - admin data is adding via calling service method
+2022-04-07 12:08:04 WARN  AdminServiceImpl:29 - hey himam your data is exits allready from service layer
+2022-04-07 12:08:17 WARN  AdminServiceImpl:29 - hey himamsk your data is exits allready from service layer
+2022-04-07 12:08:30 WARN  AdminServiceImpl:29 - hey himam your data is exits allready from service layer
+2022-04-07 12:08:41 WARN  AdminServiceImpl:29 - hey himamsk your data is exits allready from service layer
+2022-04-07 12:08:46 WARN  AdminServiceImpl:29 - hey himamsk your data is exits allready from service layer
+2022-04-07 12:08:55 WARN  AdminServiceImpl:29 - hey himamsk your data is exits allready from service layer
+2022-04-07 12:25:06 INFO  AdminServiceImpl:34 - processing the new admin data from service layer
+2022-04-07 12:25:06 INFO  AdminController:40 - admin data is adding via calling service method
+2022-04-07 12:25:21 WARN  AdminServiceImpl:29 - hey himam shaik your data is exits allready from service layer
+2022-04-07 12:25:34 INFO  AdminServiceImpl:34 - processing the new admin data from service layer
+2022-04-07 12:25:34 INFO  AdminController:40 - admin data is adding via calling service method
+2022-04-07 12:32:11 INFO  EmployeeServiceImpl:31 - processing the new admin data from service layer
+2022-04-07 12:32:11 INFO  EmployeeController:37 - admin data is adding via calling service method
+2022-04-07 12:32:17 WARN  EmployeeServiceImpl:26 - hey Donald matta your data is exits allready from service layer
+2022-04-07 14:52:46 DEBUG CustomerServiceImpl:29 - inserting data into database : from service layer
+2022-04-07 18:46:48 INFO  AdminServiceImpl:34 - processing the new admin data from service layer
+2022-04-07 18:46:48 INFO  AdminController:39 - admin data is adding via calling service method
+2022-04-07 18:47:10 INFO  AdminServiceImpl:34 - processing the new admin data from service layer
+2022-04-07 18:47:10 INFO  AdminController:39 - admin data is adding via calling service method
+2022-04-07 18:48:08 INFO  EmployeeServiceImpl:31 - processing the new admin data from service layer
+2022-04-07 18:48:08 INFO  EmployeeController:36 - admin data is adding via calling service method
+2022-04-07 18:48:31 INFO  EmployeeServiceImpl:31 - processing the new admin data from service layer
+2022-04-07 18:48:31 INFO  EmployeeController:36 - admin data is adding via calling service method
+2022-04-07 18:49:12 DEBUG CustomerServiceImpl:29 - inserting data into database : from service layer
+2022-04-07 18:49:35 DEBUG CustomerServiceImpl:29 - inserting data into database : from service layer
+2022-04-07 22:29:12 DEBUG CustomerServiceImpl:29 - inserting data into database : from service layer
+2022-04-07 23:35:36 DEBUG CustomerServiceImpl:29 - inserting data into database : from service layer
+2022-04-08 09:59:29 DEBUG CustomerServiceImpl:29 - inserting data into database : from service layer
+2022-04-08 15:29:40 DEBUG CustomerServiceImpl:29 - inserting data into database : from service layer
+2022-04-08 16:26:10 DEBUG CustomerServiceImpl:30 - inserting data into database : from service layer
+2022-04-08 17:05:22 DEBUG CustomerServiceImpl:30 - inserting data into database : from service layer
+2022-04-08 17:05:32 INFO  CustomerServiceImpl:26 - data is allready present with this gnaneshwar name
+2022-04-08 17:05:47 INFO  CustomerServiceImpl:26 - data is allready present with this gnaneshwar name
+2022-04-08 17:05:59 DEBUG CustomerServiceImpl:30 - inserting data into database : from service layer
+2022-04-08 17:46:54 DEBUG CustomerController:44 - processing the fetching data to the controller to service
+2022-04-08 17:46:54 INFO  CustomerServiceImpl:49 - customer data found in database : from service layer
+2022-04-09 16:30:23 DEBUG CustomerController:39 - processing the data to the controller to service
+2022-04-09 16:30:24 DEBUG CustomerServiceImpl:32 - inserting data into database : from service layer
+2022-04-09 16:30:44 DEBUG CustomerController:45 - processing the fetching data to the controller to service
+2022-04-09 16:30:44 INFO  CustomerServiceImpl:49 - customer data found in database : from service layer
+2022-04-09 16:54:52 DEBUG CustomerController:39 - processing the data to the controller to service
+2022-04-09 16:54:53 DEBUG CustomerServiceImpl:32 - inserting data into database : from service layer
+2022-04-10 11:23:10 INFO  AdminController:51 - processing the data passing through the service layer
+2022-04-10 11:23:10 WARN  AdminServiceImpl:46 - hey admin your data is not found from service layer
+2022-04-10 11:25:00 INFO  AdminServiceImpl:34 - processing the new admin data from service layer
+2022-04-10 11:25:00 INFO  AdminController:43 - admin data is adding via calling service method
+2022-04-10 11:25:12 INFO  AdminController:51 - processing the data passing through the service layer
+2022-04-10 11:25:12 WARN  AdminServiceImpl:46 - hey admin your data is not found from service layer
+2022-04-10 11:25:16 INFO  AdminController:51 - processing the data passing through the service layer
+2022-04-10 11:25:16 WARN  AdminServiceImpl:46 - hey admin your data is not found from service layer
+2022-04-10 11:25:35 INFO  AdminController:51 - processing the data passing through the service layer
+2022-04-10 11:25:35 INFO  AdminServiceImpl:43 - hey admin himam your data is avaiable
+2022-04-10 11:27:06 WARN  AdminController:70 - hey admin plese try to login first
+2022-04-10 11:27:39 DEBUG AdminController:92 - calling service layer
+2022-04-10 11:27:39 INFO  AdminServiceImpl:102 - checkng the password
+2022-04-10 11:27:39 INFO  AdminController:95 - return via service to controller
+2022-04-10 11:27:49 WARN  AdminController:70 - hey admin plese try to login first
+2022-04-10 11:27:53 WARN  AdminController:70 - hey admin plese try to login first
+2022-04-10 11:29:05 WARN  AdminController:70 - hey admin plese try to login first
+2022-04-10 11:29:22 DEBUG AdminController:92 - calling service layer
+2022-04-10 11:29:23 INFO  AdminServiceImpl:102 - checkng the password
+2022-04-10 11:29:23 INFO  AdminController:95 - return via service to controller
+2022-04-10 11:29:35 INFO  AdminController:64 - processing the data passing through the service layer
+2022-04-10 11:29:35 INFO  AdminServiceImpl:55 - details are found procssing to delete the data of himam
+2022-04-10 11:40:03 WARN  AdminController:50 - hey admin plese try to login first
+2022-04-11 11:28:48 DEBUG CustomerController:39 - processing the data to the controller to service
+2022-04-11 11:28:49 DEBUG CustomerServiceImpl:32 - inserting data into database : from service layer
+2022-04-11 12:17:50 WARN  AdminController:51 - hey admin plese try to login first
+2022-04-11 12:19:54 INFO  AdminServiceImpl:34 - processing the new admin data from service layer
+2022-04-11 12:19:54 INFO  AdminController:45 - admin data is adding via calling service method
+2022-04-11 12:20:52 DEBUG CustomerServiceImpl:85 - inserting data into database : from service layer
+2022-04-11 12:22:47 DEBUG CustomerServiceImpl:85 - inserting data into database : from service layer
+2022-04-11 16:47:56 INFO  AdminServiceImpl:34 - processing the new admin data from service layer
+2022-04-11 16:47:56 INFO  AdminController:45 - admin data is adding via calling service method
+2022-04-11 16:48:12 WARN  AdminController:63 - hey admin plese try to login first
+2022-04-11 16:48:45 DEBUG AdminController:115 - calling service layer
+2022-04-11 16:48:46 INFO  AdminServiceImpl:102 - checkng the password
+2022-04-11 16:48:46 INFO  AdminController:118 - return via service to controller
+2022-04-11 16:48:57 INFO  AdminController:56 - processing the data passing through the service layer
+2022-04-11 16:48:57 INFO  AdminServiceImpl:43 - hey admin himam your data is avaiable
+2022-04-11 16:52:53 INFO  AdminServiceImpl:34 - processing the new admin data from service layer
+2022-04-11 16:52:53 INFO  AdminController:45 - admin data is adding via calling service method
+2022-04-11 16:53:10 WARN  AdminController:68 - hey admin plese try to login first
+2022-04-11 16:53:29 DEBUG AdminController:120 - calling service layer
+2022-04-11 16:53:29 INFO  AdminServiceImpl:102 - checkng the password
+2022-04-11 16:53:29 INFO  AdminController:123 - return via service to controller
+2022-04-11 16:53:42 INFO  AdminController:57 - processing the data passing through the service layer
+2022-04-11 16:53:42 INFO  AdminServiceImpl:43 - hey admin himam your data is avaiable
+2022-04-11 16:53:52 INFO  AdminController:57 - processing the data passing through the service layer
+2022-04-11 16:53:52 INFO  AdminServiceImpl:43 - hey admin suryadevara your data is avaiable
+2022-04-11 16:54:08 INFO  AdminController:57 - processing the data passing through the service layer
+2022-04-11 16:54:08 INFO  AdminServiceImpl:43 - hey admin himam your data is avaiable
+2022-04-11 16:54:15 INFO  AdminController:57 - processing the data passing through the service layer
+2022-04-11 16:54:15 INFO  AdminServiceImpl:43 - hey admin suryadevara your data is avaiable
+2022-04-11 22:49:53 DEBUG CustomerServiceImpl:85 - inserting data into database : from service layer
+2022-04-11 23:26:07 WARN  AdminServiceImpl:30 - hey pavan your data is exits allready from service layer
+2022-04-11 23:26:36 INFO  AdminServiceImpl:36 - processing the new admin data from service layer
+2022-04-11 23:26:36 INFO  AdminController:45 - admin data is adding via calling service method
+2022-04-12 14:34:06 WARN  AdminController:68 - hey admin plese try to login first
+2022-04-12 14:34:47 DEBUG AdminController:120 - calling service layer
+2022-04-12 14:34:48 INFO  AdminServiceImpl:104 - checkng the password
+2022-04-12 14:34:48 INFO  AdminController:123 - return via service to controller
+2022-04-12 14:35:09 INFO  AdminController:57 - processing the data passing through the service layer
+2022-04-12 14:35:09 INFO  AdminServiceImpl:45 - hey admin himam your data is avaiable
+2022-04-12 14:35:19 INFO  AdminController:57 - processing the data passing through the service layer
+2022-04-12 14:35:19 INFO  AdminServiceImpl:45 - hey admin suryadevara your data is avaiable
+2022-04-12 14:36:10 WARN  AdminController:68 - hey admin plese try to login first
+2022-04-12 14:36:20 DEBUG AdminController:120 - calling service layer
+2022-04-12 14:36:20 INFO  AdminServiceImpl:104 - checkng the password
+2022-04-12 14:36:20 INFO  AdminController:123 - return via service to controller
+2022-04-12 14:36:27 INFO  AdminController:57 - processing the data passing through the service layer
+2022-04-12 14:36:27 INFO  AdminServiceImpl:45 - hey admin himam your data is avaiable
+2022-04-12 14:36:34 INFO  AdminController:57 - processing the data passing through the service layer
+2022-04-12 14:36:34 INFO  AdminServiceImpl:45 - hey admin suryadevara your data is avaiable
+2022-04-12 14:56:20 DEBUG AdminController:120 - calling service layer
+2022-04-12 14:56:20 INFO  AdminServiceImpl:104 - checkng the password
+2022-04-12 14:56:50 DEBUG AdminController:120 - calling service layer
+2022-04-12 14:56:50 INFO  AdminServiceImpl:104 - checkng the password
+2022-04-12 14:59:41 DEBUG AdminController:120 - calling service layer
+2022-04-12 15:00:30 DEBUG AdminController:120 - calling service layer
+2022-04-12 15:01:40 DEBUG AdminController:120 - calling service layer
+2022-04-12 15:01:42 INFO  AdminServiceImpl:104 - checkng the password
+2022-04-12 15:01:42 INFO  AdminController:123 - return via service to controller
+2022-04-12 15:02:14 DEBUG AdminController:120 - calling service layer
+2022-04-12 15:02:14 INFO  AdminServiceImpl:104 - checkng the password
+2022-04-12 15:02:26 DEBUG AdminController:120 - calling service layer
+2022-04-12 15:02:26 INFO  AdminServiceImpl:104 - checkng the password
+2022-04-12 15:06:10 DEBUG AdminController:120 - calling service layer
+2022-04-12 15:06:10 INFO  AdminServiceImpl:104 - checkng the password
+2022-04-12 15:06:10 INFO  AdminController:123 - return via service to controller
+2022-04-12 15:06:47 DEBUG AdminController:120 - calling service layer
+2022-04-12 15:06:47 INFO  AdminServiceImpl:104 - checkng the password
+2022-04-12 15:06:49 DEBUG AdminController:120 - calling service layer
+2022-04-12 15:06:49 INFO  AdminServiceImpl:104 - checkng the password
+2022-04-12 15:06:50 DEBUG AdminController:120 - calling service layer
+2022-04-12 15:06:50 INFO  AdminServiceImpl:104 - checkng the password
+2022-04-12 15:06:53 DEBUG AdminController:120 - calling service layer
+2022-04-12 15:06:53 INFO  AdminServiceImpl:104 - checkng the password
+2022-04-12 15:08:44 DEBUG AdminController:120 - calling service layer
+2022-04-12 15:08:44 INFO  AdminServiceImpl:106 - checkng the password
+2022-04-12 15:10:36 DEBUG AdminController:120 - calling service layer
+2022-04-12 15:18:22 DEBUG AdminController:120 - calling service layer
+2022-04-12 15:18:23 INFO  AdminServiceImpl:106 - checkng the password
+2022-04-12 15:18:23 INFO  AdminController:123 - return via service to controller
+2022-04-12 15:22:27 DEBUG AdminController:120 - calling service layer
+2022-04-12 15:22:27 INFO  AdminServiceImpl:103 - checkng the password
+2022-04-12 15:22:27 INFO  AdminController:123 - return via service to controller
+2022-04-12 15:22:30 DEBUG AdminController:120 - calling service layer
+2022-04-12 15:22:30 INFO  AdminServiceImpl:103 - checkng the password
+2022-04-12 15:22:30 INFO  AdminController:123 - return via service to controller
+2022-04-12 15:23:13 DEBUG AdminController:120 - calling service layer
+2022-04-12 15:23:13 INFO  AdminServiceImpl:103 - checkng the password
+2022-04-12 15:23:26 DEBUG AdminController:120 - calling service layer
+2022-04-12 15:23:52 DEBUG AdminController:120 - calling service layer
+2022-04-12 15:23:52 INFO  AdminServiceImpl:103 - checkng the password
+2022-04-12 15:24:01 DEBUG AdminController:120 - calling service layer
+2022-04-12 15:24:01 INFO  AdminServiceImpl:103 - checkng the password
+2022-04-12 15:24:01 INFO  AdminController:123 - return via service to controller
+2022-04-16 10:05:39 WARN  AdminController:68 - hey admin plese try to login first
+2022-04-16 10:06:40 DEBUG AdminController:120 - calling service layer
+2022-04-16 10:06:40 INFO  AdminServiceImpl:103 - checkng the password
+2022-04-16 10:06:40 INFO  AdminController:123 - return via service to controller
+2022-04-16 10:07:02 INFO  AdminController:57 - processing the data passing through the service layer
+2022-04-16 10:07:02 INFO  AdminServiceImpl:45 - hey admin pavan your data is avaiable
+2022-04-16 10:07:18 INFO  AdminController:57 - processing the data passing through the service layer
+2022-04-16 10:07:18 INFO  AdminServiceImpl:45 - hey admin suryadevara your data is avaiable
+2022-04-19 16:41:23 WARN  AdminController:68 - hey admin plese try to login first
+2022-04-19 16:41:47 DEBUG AdminController:120 - calling service layer
+2022-04-19 16:41:48 INFO  AdminServiceImpl:103 - checkng the password
+2022-04-19 16:41:48 INFO  AdminController:123 - return via service to controller
+2022-04-19 16:42:02 INFO  AdminController:57 - processing the data passing through the service layer
+2022-04-19 16:42:02 INFO  AdminServiceImpl:45 - hey admin himam your data is avaiable
+2022-04-19 16:42:15 INFO  AdminController:57 - processing the data passing through the service layer
+2022-04-19 16:42:15 INFO  AdminServiceImpl:45 - hey admin suryadevara your data is avaiable
+2022-05-12 21:04:15 INFO  AdminServiceImpl:36 - processing the new admin data from service layer
+2022-05-12 21:04:15 INFO  AdminController:46 - admin data is adding via calling service method
+2022-05-12 21:04:32 WARN  AdminController:112 - hey admin plese try to login first
+2022-05-12 21:04:59 WARN  AdminController:100 - hey admin plese try to login first
